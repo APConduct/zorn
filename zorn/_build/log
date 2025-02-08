@@ -1,0 +1,6 @@
+# dune init project zorn
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/aidanjost/.cache/dune/db
+# Workspace root: /Users/aidanjost/projects/zorn/zorn
+# Auto-detected concurrency: 8
