@@ -1,0 +1,4 @@
+(executable
+ (public_name zorn)
+ (name main)
+ (libraries zorn))
