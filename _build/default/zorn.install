@@ -1,0 +1,12 @@
+lib: [
+  "_build/install/default/lib/zorn/META"
+  "_build/install/default/lib/zorn/dune-package"
+  "_build/install/default/lib/zorn/opam"
+]
+bin: [
+  "_build/install/default/bin/zorn"
+]
+doc: [
+  "_build/install/default/doc/zorn/LICENSE"
+  "_build/install/default/doc/zorn/README.md"
+]

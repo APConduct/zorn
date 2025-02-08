@@ -1,0 +1,4 @@
+(lang dune 3.17)
+(name zorn)
+(sections (lib .) (bin ../../bin) (doc ../../doc/zorn))
+(files (lib (META dune-package opam)) (bin (zorn)) (doc (LICENSE README.md)))
