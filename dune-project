@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github APConduct/zorn))
 
 (authors "Author Name <author@example.com>")
 
